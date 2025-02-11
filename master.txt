@@ -1,4 +1,4 @@
 egy sor
 masodik sor
-harmadik sor (master)
+harmadik sor (Gábor)
 negyediksor (master)
