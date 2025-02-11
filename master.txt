@@ -1,2 +1,3 @@
 egy sor
 masodik sor
+harmadik sor (master)
